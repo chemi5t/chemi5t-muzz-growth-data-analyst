@@ -30,7 +30,7 @@ The project explores the performance of different verification methods, consider
 - **`__pycache__`**: Folder containing cached Python bytecode files (private).
 - **`.vscode`**: Visual Studio Code project configuration folder (private).
 - **`muzz_files/`**: Folder containing project-specific data, including `product_data_analyst_data_2024/`.
-- **`other/`**: Folder containing README-specific data, including `README_pics/`. 
+- **`other/`**: Folder containing README-specific data, including `README_pics/` and `sql_outputs` containing saved queries from .sql scripts. 
 - **`requirements.txt`**: A file listing all the required Python packages for the project.
 
 ![other/README_pics/03_ERD.jpg](other/README_pics/03_ERD.jpg)
