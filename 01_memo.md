@@ -56,3 +56,6 @@ This file analysed verification failure rates across different age brackets and 
 
 ## Additional Note:
 Some rows have been removed due to either null values found or lack of reference in another table. To set up the data locally, start by running the `main.py` file from the GitHub repository, which extracts the table locally. Then, execute the `00_data_cleanup_and_starschema_constraints.sql` script to clean up the data. For an overview of the project, refer to the `01_memo.md` file, which summarises the work carried out and findings. The main analysis is contained in `02_report_growth_data_analyst_exercise.sql`, with additional insights in `03_report_verification_and_cost_analysis.sql` and `04_age_bracket_method_failure_rates.sql`.
+
+For more information and access to the project, visit [GitHub](https://github.com/chemi5t/chemi5t-muzz-growth-data-analyst).
+

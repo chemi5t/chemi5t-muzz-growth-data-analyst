@@ -9,11 +9,12 @@
 
 -- References:
 -- Additional to this report file name: 
---      02_report_growth_data_analyst_exercise, 
+--      02_report_growth_data_analyst_exercise
+--      For more information and access to the project, visit https://github.com/chemi5t/chemi5t-muzz-growth-data-analyst.
+
 -- Mini-reports have been carried out for insights:
 --      03_report_verification_and_cost_analysis
 --      04_age_bracket_method_failure_rates
-
 
 -- 1. Which screen would you suggest we proceed with?
 -- To determine the optimal screen, verification success rates was analysed across methods and groups, aiming to select the screen configuration with the highest success rate for future use.
