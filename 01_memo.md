@@ -1,6 +1,6 @@
 # Memo Summary: Report on Verification Success Rates and Method Analysis
 ### *By Umar Butt, 11 November 2024*
-.
+
 ---
 
 ## File: 02_report_growth_data_analyst_exercise
