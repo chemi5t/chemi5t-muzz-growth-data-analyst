@@ -190,7 +190,7 @@ ORDER BY
 --   engagement likely contributes to the group’s high overall success rate (0.9282).
 
 -- Overall, the dual-method setup, paired with prioritising WhatsApp but retaining SMS as a secondary 
--- option, likely optimizes both user satisfaction and verification success.
+-- option, likely optimises both user satisfaction and verification success.
 
 
 
@@ -209,14 +209,13 @@ ORDER BY
 --   to switch if the initial method fails. This flexibility may improve verification success, 
 --   particularly for users in regions with connectivity challenges that impact WhatsApp or SMS availability.
 
--- - Add Contextual Guidance: Briefly explain why one method may be more reliable under specific 
---   conditions. For instance, SMS could be recommended in regions with low internet connectivity, 
+-- - Contextual Guidance: SMS could be recommended in regions with low internet connectivity, 
 --   guiding users toward the method most likely to succeed in their situation.
 
 -- - Regular Evaluation and Adjustment: Conduct periodic evaluations of verification success rates by 
 --   region and adjust the method allocation based on regional performance, user preference, and cost 
 --   efficiency. This could involve making SMS the default method in areas where it outperforms WhatsApp 
---   and prioritizing WhatsApp in regions where it is more successful.
+--   and prioritising WhatsApp in regions where it is more successful.
 
 -- - Incorporate User Feedback Mechanisms: Including a feedback option for users who experience issues 
 --   with their chosen method can help refine the system for future users. Analyzing this feedback would 
@@ -227,8 +226,8 @@ ORDER BY
 
 -- Summary of Findings and Recommendations:
 
--- This analysis supports the effectiveness of a two-method setup, particularly when SMS is prioritized 
--- or recommended as a fallback. The recommendations aim to enhance the user experience while maximizing 
+-- This analysis supports the effectiveness of a two-method setup, particularly when SMS is prioritised 
+-- or recommended as a fallback. The recommendations aim to enhance the user experience while maximising 
 -- verification success across diverse user segments. Future improvements should integrate regional performance, 
 -- user preference, and cost data to ensure the verification process remains efficient, cost-effective, 
 -- and user-friendly.
