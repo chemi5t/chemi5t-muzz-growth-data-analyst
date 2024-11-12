@@ -1,0 +1,6 @@
+"group","method","failure_count","success_count","method_selection_count","total_entries","failure_entries_percent","success_entries_percent","method_selection_percent","verification_success_rate_by_method","verification_success_rate_by_group"
+"A","Sms","807","5572","6379","18420","4.38","30.25","34.63","0.8735","0.8735"
+"B","Sms","369","4888","5257","18420","2.00","26.54","28.54","0.9298","0.9281"
+"C","Whatsapp","336","3569","3905","18420","1.82","19.38","21.20","0.9140","0.9282"
+"C","Sms","103","2110","2213","18420","0.56","11.45","12.01","0.9535","0.9282"
+"B","Whatsapp","57","609","666","18420","0.31","3.31","3.62","0.9144","0.9281"

@@ -1,0 +1,6 @@
+"group","method","verification_success_rate","method_representation_percentage_within_group","method_share_within_group_percent"
+"C","Sms","0.9535","0.1201","36.17"
+"B","Sms","0.9298","0.2854","88.76"
+"B","Whatsapp","0.9144","0.0362","11.24"
+"C","Whatsapp","0.9140","0.2120","63.83"
+"A","Sms","0.8735","0.3463","100.00"
