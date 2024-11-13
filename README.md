@@ -22,6 +22,7 @@ The project explores the performance of different verification methods, consider
 - **`03_report_verification_and_cost_analysis.sql`**: SQL report focusing on the verification methods and associated costs.
 - **`04_age_bracket_method_failure_rates.sql`**: SQL script examining failure rates based on user age brackets.
 - **`05_drop_tables.sql`**: SQL script to drop tables in the database when needed.
+- **`06_data_analysis_graphs.ipynb`**: Jupyter notebook detailing insights from data in the form of visual charts and graphs etc.
 - **`data_extraction.py`**: Python script for extracting necessary data from the database.
 - **`database_utils.py`**: Utility functions for interacting with the database.
 - **`db_creds.yaml`**: File storing database credentials (private).
@@ -125,6 +126,9 @@ This project is licensed under the terms of the [MIT License](LICENSE.md). Pleas
 # Future Work
 
 This project is an ELT data pipeline. In the future I shall make this an ETL data pipeline and perform the clean up in-line with extraction prior to uploading to the database. Further automating the process. 
+
+# Recent addition
+- **`06_data_analysis_graphs.ipynb`**: Jupyter notebook detailing insights from data in the form of visual charts and graphs etc.
 
 
 ### Key Changes:
